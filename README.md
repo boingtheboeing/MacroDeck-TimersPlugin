@@ -1,5 +1,5 @@
 # Timers Plugin for Macro Deck 2
-![GitHub](https://img.shields.io/github/license/RecklessBoon/Macro-Deck-Discord-Plugin)
+![GitHub](https://img.shields.io/github/license/boingtheboeing/MacroDeck-TimpersPlugin)
 
 ## Features
 | Action | Description |
